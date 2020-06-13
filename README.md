@@ -44,3 +44,7 @@ Pull requests are welcome and here's the example format.
 ## Datatable
 
 - [Gridjs](https://github.com/grid-js/gridjs)
+
+## File Upload
+
+- [FilePond](https://github.com/pqina/filepond)
