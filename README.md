@@ -29,3 +29,7 @@ List of JS plugins that I think it's good to use and without require third party
 ## WYISWYG Editor
 
 - [Quill](https://quilljs.com)
+
+## Datatable
+
+- [Gridjs](https://github.com/grid-js/gridjs)
