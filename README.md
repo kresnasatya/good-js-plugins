@@ -2,6 +2,17 @@
 
 List of JS plugins that it's good to use and without require third party like JQuery. In other words it just Vanilla JavaScript plugins.
 
+## Contribute
+
+Pull requests are welcome and here's the example format.
+
+```
+<!-- The purpose of plugin -->
+## File Upload
+
+- [FilePond](https://github.com/pqina/filepond)
+```
+
 ## Datepicker
 
 - [Flatpickr](https://flatpickr.js.org)
