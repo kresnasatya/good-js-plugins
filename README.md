@@ -48,3 +48,7 @@ Pull requests are welcome and here's the example format.
 ## File Upload
 
 - [FilePond](https://github.com/pqina/filepond)
+
+## Scrollbar
+
+- [Simplebar](https://github.com/Grsmto/simplebar)
