@@ -1,6 +1,6 @@
 # Good JS Plugins
 
-List of good JS plugins without require third party like JQuery. In other words it just Vanilla JavaScript plugins.
+List of good JS plugins without require third party like JQuery. In other words they are Vanilla JavaScript plugins.
 
 ## Contribute
 
