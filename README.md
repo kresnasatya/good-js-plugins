@@ -52,3 +52,7 @@ Pull requests are welcome and here's the example format.
 ## Scrollbar
 
 - [Simplebar](https://github.com/Grsmto/simplebar)
+
+## Progress bar
+
+- [NProgress](https://ricostacruz.com/nprogress/)
