@@ -20,6 +20,7 @@ Pull requests are welcome and here's the example format.
 ## Select
 
 - [Choices](https://github.com/jshjohnson/Choices)
+- [Slim Select](https://github.com/brianvoe/slim-select)
 
 ## Single Page Application Router
 
