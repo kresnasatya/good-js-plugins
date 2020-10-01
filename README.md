@@ -41,10 +41,13 @@ Pull requests are welcome and here's the example format.
 ## WYISWYG Editor
 
 - [Quill](https://quilljs.com)
+- [Froalla](https://froala.com/wysiwyg-editor/)
 
 ## Datatable
 
 - [Gridjs](https://github.com/grid-js/gridjs)
+- [Clusterize.js](https://github.com/NeXTs/Clusterize.js/)
+
 
 ## File Upload
 
