@@ -57,3 +57,7 @@ Pull requests are welcome and here's the example format.
 ## Progress bar
 
 - [NProgress](https://ricostacruz.com/nprogress/)
+
+## Swiper.js
+
+- [Swiper.js](https://swiperjs.com/)
