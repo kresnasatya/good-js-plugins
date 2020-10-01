@@ -49,6 +49,10 @@ Pull requests are welcome and here's the example format.
 ## File Upload
 
 - [FilePond](https://github.com/pqina/filepond)
+- [DropzoneJS](https://www.dropzonejs.com/)
+
+## Image Cropping
+- [Croppie](https://foliotek.github.io/Croppie/)
 
 ## Scrollbar
 
