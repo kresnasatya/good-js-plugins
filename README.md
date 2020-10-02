@@ -73,6 +73,7 @@ Pull requests are welcome and here's the example format.
 ## Slider
 
 - [Swiper.js](https://swiperjs.com/)
+
 - [Glider.js](https://github.com/NickPiscitelli/Glider.js)
 
 ## Syntax highlight
@@ -86,3 +87,11 @@ Pull requests are welcome and here's the example format.
 ## Light Box
 
 [Chocolat](https://github.com/nicolas-t/Chocolat)
+
+## Video Js
+
+- [Video.js](https://videojs.com/)
+
+## Color Picker
+
+- [iro.js](https://iro.js.org/)
