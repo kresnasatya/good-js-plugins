@@ -64,3 +64,7 @@ Pull requests are welcome and here's the example format.
 ## Progress bar
 
 - [NProgress](https://ricostacruz.com/nprogress/)
+
+## Slider
+
+- [Swiper.js](https://swiperjs.com/)
