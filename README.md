@@ -69,6 +69,6 @@ Pull requests are welcome and here's the example format.
 
 - [Swiper.js](https://swiperjs.com/)
 
-## Color Picker
+## Video Js
 
-- [iro.js](https://iro.js.org/)
+- [Video.js](https://videojs.com/)
