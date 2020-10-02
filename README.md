@@ -58,6 +58,6 @@ Pull requests are welcome and here's the example format.
 
 - [NProgress](https://ricostacruz.com/nprogress/)
 
-## Swiper.js
+## Slider
 
 - [Swiper.js](https://swiperjs.com/)
