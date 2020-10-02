@@ -16,7 +16,6 @@ Pull requests are welcome and here's the example format.
 ## Datepicker
 
 - [Flatpickr](https://flatpickr.js.org)
-- [Day.js](https://github.com/iamkun/dayjs)
 
 ## Select
 
@@ -67,7 +66,7 @@ Pull requests are welcome and here's the example format.
 
 - [NProgress](https://ricostacruz.com/nprogress/)
 
-## Notification / alert
+## Toast Notification
 
 - [Notyf](https://github.com/caroso1222/notyf)
 
@@ -87,7 +86,3 @@ Pull requests are welcome and here's the example format.
 ## Light Box
 
 [Chocolat](https://github.com/nicolas-t/Chocolat)
-
-## URL
-
-- [Url Cat](https://github.com/balazsbotond/urlcat)
