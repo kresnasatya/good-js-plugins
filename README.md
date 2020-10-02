@@ -68,3 +68,7 @@ Pull requests are welcome and here's the example format.
 ## Slider
 
 - [Swiper.js](https://swiperjs.com/)
+
+## Video Js
+
+- [Video.js](https://videojs.com/)
