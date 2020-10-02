@@ -72,3 +72,7 @@ Pull requests are welcome and here's the example format.
 ## Video Js
 
 - [Video.js](https://videojs.com/)
+
+## Color Picker
+
+- [iro.js](https://iro.js.org/)
