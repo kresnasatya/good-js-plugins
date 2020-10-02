@@ -16,6 +16,7 @@ Pull requests are welcome and here's the example format.
 ## Datepicker
 
 - [Flatpickr](https://flatpickr.js.org)
+- [Day.js](https://github.com/iamkun/dayjs)
 
 ## Select
 
@@ -53,6 +54,7 @@ Pull requests are welcome and here's the example format.
 
 - [FilePond](https://github.com/pqina/filepond)
 - [DropzoneJS](https://www.dropzonejs.com/)
+- [Uppy](https://github.com/transloadit/uppy)
 
 ## Image Cropping
 - [Croppie](https://foliotek.github.io/Croppie/)
@@ -65,6 +67,27 @@ Pull requests are welcome and here's the example format.
 
 - [NProgress](https://ricostacruz.com/nprogress/)
 
+## Notification / alert
+
+- [Notyf](https://github.com/caroso1222/notyf)
+
 ## Slider
 
 - [Swiper.js](https://swiperjs.com/)
+- [Glider.js](https://github.com/NickPiscitelli/Glider.js)
+
+## Syntax highlight
+
+- [EnlighterJs](https://github.com/EnlighterJS/EnlighterJS)
+
+## Lazy Load
+
+- [Lazysizes](https://github.com/aFarkas/lazysizes)
+
+## Light Box
+
+[Chocolat](https://github.com/nicolas-t/Chocolat)
+
+## URL
+
+- [Url Cat](https://github.com/balazsbotond/urlcat)
