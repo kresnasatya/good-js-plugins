@@ -88,7 +88,7 @@ Pull requests are welcome and here's the example format.
 
 [Chocolat](https://github.com/nicolas-t/Chocolat)
 
-## Video Js
+## Video Js 
 
 - [Video.js](https://videojs.com/)
 
