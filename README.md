@@ -99,3 +99,7 @@ Pull requests are welcome and here's the example format.
 ## JS Typing
 
 - [Typelt.js](https://typeitjs.com/)
+
+## Smooth Scroll Animation
+
+- [lax.js](https://github.com/alexfoxy/lax.js)
