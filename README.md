@@ -95,3 +95,7 @@ Pull requests are welcome and here's the example format.
 ## Color Picker
 
 - [iro.js](https://iro.js.org/)
+
+## JS Typing
+
+- [Typelt.js](https://typeitjs.com/)
