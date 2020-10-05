@@ -103,3 +103,7 @@ Pull requests are welcome and here's the example format.
 ## Smooth Scroll Animation
 
 - [lax.js](https://github.com/alexfoxy/lax.js)
+
+## Real-time formating to form inputs
+
+- [cleave.js](https://nosir.github.io/cleave.js/)
