@@ -16,6 +16,7 @@ Pull requests are welcome and here's the example format.
 ## Datepicker
 
 - [Flatpickr](https://flatpickr.js.org)
+- [Duet Date Picker](https://duetds.github.io/date-picker/)
 
 ## Select
 
