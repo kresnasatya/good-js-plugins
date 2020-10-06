@@ -64,3 +64,7 @@ Pull requests are welcome and here's the example format.
 ## Progress bar
 
 - [NProgress](https://ricostacruz.com/nprogress/)
+
+## Sliders
+
+- [Swiper](https://github.com/nolimits4web/Swiper)
