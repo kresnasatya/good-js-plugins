@@ -53,6 +53,7 @@ Pull requests are welcome and here's the example format.
 
 - [FilePond](https://github.com/pqina/filepond)
 - [DropzoneJS](https://www.dropzonejs.com/)
+- [Uppy](https://github.com/transloadit/uppy)
 
 ## Image Cropping
 - [Croppie](https://foliotek.github.io/Croppie/)
@@ -65,6 +66,47 @@ Pull requests are welcome and here's the example format.
 
 - [NProgress](https://ricostacruz.com/nprogress/)
 
-## Sliders
+## Toast Notification
 
-- [Swiper](https://github.com/nolimits4web/Swiper)
+- [Notyf](https://github.com/caroso1222/notyf)
+
+## Slider
+
+- [Swiper.js](https://swiperjs.com/)
+
+- [Glider.js](https://github.com/NickPiscitelli/Glider.js)
+
+- [FlexSlider](https://github.com/woocommerce/FlexSlider)
+
+## Syntax highlight
+
+- [EnlighterJs](https://github.com/EnlighterJS/EnlighterJS)
+
+## Lazy Load
+
+- [Lazysizes](https://github.com/aFarkas/lazysizes)
+
+## Light Box
+
+[Chocolat](https://github.com/nicolas-t/Chocolat)
+
+## Video Js
+
+- [Video.js](https://videojs.com/)
+
+## Color Picker
+
+- [iro.js](https://iro.js.org/)
+
+## JS Typing
+
+- [Typelt.js](https://typeitjs.com/)
+
+## Smooth Scroll Animation
+
+- [lax.js](https://github.com/alexfoxy/lax.js)
+
+## Real-time formating to form inputs
+
+- [cleave.js](https://nosir.github.io/cleave.js/)
+
