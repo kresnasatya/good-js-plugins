@@ -30,7 +30,7 @@ Pull requests are welcome and here's the example format.
 
 - [Micromodal.js](https://github.com/Ghosh/micromodal)
 
-## Snackbar
+## Snackbar/Toast Notifications
 
 - [Notyf](https://github.com/caroso1222/notyf)
 
@@ -48,7 +48,6 @@ Pull requests are welcome and here's the example format.
 - [Gridjs](https://github.com/grid-js/gridjs)
 - [Clusterize.js](https://github.com/NeXTs/Clusterize.js/)
 
-
 ## File Upload
 
 - [FilePond](https://github.com/pqina/filepond)
@@ -58,23 +57,20 @@ Pull requests are welcome and here's the example format.
 ## Image Cropping
 - [Croppie](https://foliotek.github.io/Croppie/)
 
-## Scrollbar
+## Scroll
 
 - [Simplebar](https://github.com/Grsmto/simplebar)
+- [lax.js](https://github.com/alexfoxy/lax.js)
 
 ## Progress bar
 
 - [NProgress](https://ricostacruz.com/nprogress/)
 
-## Toast Notification
-
-- [Notyf](https://github.com/caroso1222/notyf)
-
-## Slider
+## Carousel
 
 - [Swiper.js](https://swiperjs.com/)
-
 - [Glider.js](https://github.com/NickPiscitelli/Glider.js)
+- [Chocolat](https://github.com/nicolas-t/Chocolat)
 
 ## Syntax highlight
 
@@ -84,11 +80,7 @@ Pull requests are welcome and here's the example format.
 
 - [Lazysizes](https://github.com/aFarkas/lazysizes)
 
-## Light Box
-
-[Chocolat](https://github.com/nicolas-t/Chocolat)
-
-## Video Js
+## Video Player
 
 - [Video.js](https://videojs.com/)
 
@@ -96,14 +88,10 @@ Pull requests are welcome and here's the example format.
 
 - [iro.js](https://iro.js.org/)
 
-## JS Typing
+## Typewritter effects
 
 - [Typelt.js](https://typeitjs.com/)
 
-## Smooth Scroll Animation
-
-- [lax.js](https://github.com/alexfoxy/lax.js)
-
-## Real-time formating to form inputs
+## Form inputs formatting
 
 - [cleave.js](https://nosir.github.io/cleave.js/)
