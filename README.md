@@ -96,3 +96,7 @@ Pull requests are welcome and here's the example format.
 ## Form inputs formatting
 
 - [cleave.js](https://nosir.github.io/cleave.js/)
+
+## Charting
+
+- [Chart.js](https://www.chartjs.org/)
