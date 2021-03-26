@@ -13,6 +13,10 @@ Pull requests are welcome and here's the example format.
 - [FilePond](https://github.com/pqina/filepond)
 ```
 
+## Analytics
+
+- [Umami](https://github.com/mikecao/umami)
+
 ## Datepicker
 
 - [Flatpickr](https://flatpickr.js.org)
