@@ -47,6 +47,8 @@ Pull requests are welcome and here's the example format.
 
 - [Quill](https://quilljs.com)
 - [Froalla](https://froala.com/wysiwyg-editor/)
+- [Simple MDE - Markdown Editor](https://github.com/sparksuite/simplemde-markdown-editor)
+- [Easy MDE - Markdown Editor fork from Simple MDE](https://github.com/Ionaru/easy-markdown-editor)
 
 ## Datatable
 
