@@ -31,6 +31,10 @@ Pull requests are welcome and here's the example format.
 
 - [Page.js](https://github.com/visionmedia/page.js/)
 
+## State Management
+
+- [Beedle](https://github.com/andy-piccalilli/beedle)
+
 ## Dialog
 
 - [Micromodal.js](https://github.com/Ghosh/micromodal)
