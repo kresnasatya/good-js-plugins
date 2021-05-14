@@ -30,6 +30,7 @@ Pull requests are welcome and here's the example format.
 ## Single Page Application Router
 
 - [Page.js](https://github.com/visionmedia/page.js/)
+- [Navigo](https://github.com/krasimir/navigo)
 
 ## State Management
 
