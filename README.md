@@ -111,3 +111,7 @@ Pull requests are welcome and here's the example format.
 ## Charting
 
 - [Chart.js](https://www.chartjs.org/)
+
+## Scroll Animation
+
+- [AOS](https://michalsnik.github.io/aos/)
