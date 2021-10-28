@@ -21,11 +21,13 @@ Pull requests are welcome and here's the example format.
 
 - [Flatpickr](https://flatpickr.js.org)
 - [Duet Date Picker](https://duetds.github.io/date-picker/)
+- [Date Range Picker](https://www.daterangepicker.com/)
 
 ## Select
 
 - [Choices](https://github.com/jshjohnson/Choices)
 - [Slim Select](https://github.com/brianvoe/slim-select)
+- [Select2](https://select2.org/)
 
 ## Single Page Application Router
 
