@@ -115,3 +115,4 @@ Pull requests are welcome and here's the example format.
 ## Scroll Animation
 
 - [AOS](https://michalsnik.github.io/aos/)
+- [Sal](https://mciastek.github.io/sal/)
